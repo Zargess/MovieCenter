@@ -1,0 +1,15 @@
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.exe.config
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.XML
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.exe
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.pdb
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\FSharp.Core.dll
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\FSharp.Data.dll
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.dll
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.pdb
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.xml
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\FSharp.Data.pdb
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\FSharp.Data.xml
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\FSharp.Core.xml
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\obj\Debug\MovieCenter.Core.Test.fsprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\obj\Debug\MovieCenter.Core.Test.exe
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\obj\Debug\MovieCenter.Core.Test.pdb
