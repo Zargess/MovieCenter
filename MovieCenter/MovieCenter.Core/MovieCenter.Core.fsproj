@@ -52,8 +52,9 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="ListExtensions.fs" />
-    <Compile Include="FolderManager.fs" />
     <Compile Include="IMDBSearchEngine.fs" />
+    <Compile Include="FolderManager.fs" />
+    <Compile Include="Models.fs" />
     <Content Include="packages.config" />
     <Content Include="app.config" />
   </ItemGroup>

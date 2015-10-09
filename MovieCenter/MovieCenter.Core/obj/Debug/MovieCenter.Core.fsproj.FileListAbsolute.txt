@@ -1,11 +1,11 @@
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Data.xml
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\MovieCenter.Core.XML
-C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\MovieCenter.Core.dll
-C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\MovieCenter.Core.pdb
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Core.dll
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Data.dll
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Data.pdb
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Core.xml
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\obj\Debug\MovieCenter.Core.dll
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\obj\Debug\MovieCenter.Core.pdb
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\MovieCenter.Core.dll.config
-C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Data.dll
-C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Data.pdb
-C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\FSharp.Data.xml
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\MovieCenter.Core.dll
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core\bin\Debug\MovieCenter.Core.pdb

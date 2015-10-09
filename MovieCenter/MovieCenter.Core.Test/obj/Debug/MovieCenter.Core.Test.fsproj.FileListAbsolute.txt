@@ -1,3 +1,4 @@
+C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\obj\Debug\MovieCenter.Core.Test.fsproj.MovieCenter.Core.Test.exe.config
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.exe.config
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.XML
 C:\Users\Marcus\Documents\GitHub\MovieCenter\MovieCenter\MovieCenter.Core.Test\bin\Debug\MovieCenter.Core.Test.exe
