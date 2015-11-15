@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MovieCenter.Core", "MovieCenter.Core\MovieCenter.Core.fsproj", "{D6AA2019-14CE-405E-B71C-A961E078F6E7}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MovieCenter.Core.Test", "MovieCenter.Core.Test\MovieCenter.Core.Test.fsproj", "{07655110-0264-4568-9BC5-D7BE84D9BF26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieCenter.Core", "MovieCenter.Core\MovieCenter.Core.csproj", "{7D2FB171-958E-4031-A0C5-AF1A02919DAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6AA2019-14CE-405E-B71C-A961E078F6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6AA2019-14CE-405E-B71C-A961E078F6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6AA2019-14CE-405E-B71C-A961E078F6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6AA2019-14CE-405E-B71C-A961E078F6E7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{07655110-0264-4568-9BC5-D7BE84D9BF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{07655110-0264-4568-9BC5-D7BE84D9BF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{07655110-0264-4568-9BC5-D7BE84D9BF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{07655110-0264-4568-9BC5-D7BE84D9BF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2FB171-958E-4031-A0C5-AF1A02919DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2FB171-958E-4031-A0C5-AF1A02919DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2FB171-958E-4031-A0C5-AF1A02919DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2FB171-958E-4031-A0C5-AF1A02919DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
